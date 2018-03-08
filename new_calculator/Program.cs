@@ -3,7 +3,7 @@ using NCalc;
 
 namespace new_calculator
 {
-    class MainClass
+    class Program
     {
         public static void Main(string[] args)
         {
@@ -11,6 +11,7 @@ namespace new_calculator
             //The next one is going to be better
             //We will think about algorithm
 
+            //comment
             Console.WriteLine("Write math expression or \"quit\"");
             while (true)
             {
