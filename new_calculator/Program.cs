@@ -7,11 +7,6 @@ namespace new_calculator
     {
         public static void Main(string[] args)
         {
-            //This calculator calculates
-            //The next one is going to be better
-            //We will think about algorithm
-
-            //Ace was here
             Console.WriteLine("Write math expression or \"quit\"");
             while (true)
             {
